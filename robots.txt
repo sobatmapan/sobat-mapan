@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://sobatmapan.github.io/sobat-mapan/sitemap.xml
